@@ -13,15 +13,15 @@
 @font-face {
     font-family: 'Poppins';
     font-style: normal;
-    font-weight: 200;
-    src: url("../fonts/Poppins-ExtraLight.woff2") format("woff2")
+    font-weight: 300;
+    src: url("../fonts/Poppins-Light.woff2") format("woff2")
 }
 
 @font-face {
     font-family: 'Poppins';
     font-style: italic;
-    font-weight: 200;
-    src: url("../fonts/Poppins-ExtraLightItalic.woff2") format("woff2")
+    font-weight: 300;
+    src: url("../fonts/Poppins-LightItalic.woff2") format("woff2")
 }
 
 @font-face {
@@ -151,6 +151,7 @@ p {
     text-align: center;
     background-color: var(--background-dark);
     padding-top: 50px;
+    padding-bottom: 30px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -164,6 +165,7 @@ p {
 .centering-container {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 .root-background {
@@ -267,7 +269,7 @@ p {
 
 .headline-container {
     padding-top: 40px;
-    padding-bottom: 40px;
+    padding-bottom: 0px;
 }
 
 .headline-small {
@@ -278,13 +280,29 @@ p {
 .headline-big {
     text-align: center;
     font-size: 50px;
-    font-weight: 200;
+    font-weight: 300;
 }
 
 .block-container {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+}
+
+.big-block {
+    width: 100%;
+    border: 2px solid var(--block-color);
+    border-radius: 25px;
+    background-color: var(--block-color);
+    padding-left: 65px;
+    padding-right: 65px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    box-shadow: 0px 0px 30px 10px var(--block-shadow-color);
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .block {
@@ -339,8 +357,52 @@ p {
 
 .block-text {
     font-size: 18px;
-    font-weight: 200;
+    font-weight: 300;
     text-align: center;
+}
+
+.block-text-justify {
+    font-size: 18px;
+    font-weight: 300;
+    text-align: justify;
+}
+
+.team-image {
+    width: 500px;
+    height: 363px;
+    border-radius: 25px;
+    max-width: 80%;
+    display: block;
+    object-fit: scale-down;
+    margin-bottom: 40px;
+}
+
+.person-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.person {
+    display: block;
+    min-width: 250px;
+    max-width: 250px;
+    padding: 10px 10px 10px 10px;
+}
+
+.person p {
+    text-align: center;
+}
+
+.person-image {
+    border: 3px solid var(--primary-color);
+    border-radius: 50%;
+    max-width: 200px;
+    max-height: auto;
+}
+
+.primary-color {
+    color: var(--primary-color);
 }
 
 @media screen and (max-width: 930px) {
@@ -405,10 +467,27 @@ p {
         padding-top: 5px;
         padding-bottom: 5px;
     }
+    .big-block {
+        padding-left: 5px;
+        padding-right: 5px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
     .block-title {
         font-size: 22px;
     }
     .block-text {
         font-size: 17px;
+    }
+    .block-text-justify {
+        font-size: 17px;
+        text-align: center;
+    }
+    .person-image {
+        max-width: 100px;
     }
 }
