@@ -7,6 +7,7 @@
     --text-color: #ffffff;
     --block-color: #3e3f467e;
     --block-shadow-color: #00000083;
+    --black: #000000;
 }
 
 @font-face {
@@ -131,17 +132,38 @@ video {
     font-size: 18px;
 }
 
+html {
+    background-color: var(--background-dark);
+}
+
 a,
 p {
     color: var(--text-color);
 }
 
-footer {
-    margin-top: 20px;
+.centered-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 
 .footer {
-    background-color: var(--background-light);
+    text-align: center;
+    background-color: var(--background-dark);
+    padding-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.footer a {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.centering-container {
+    display: flex;
+    justify-content: center;
 }
 
 .root-background {
@@ -154,12 +176,14 @@ footer {
 }
 
 .content-body {
-    /*     background: linear-gradient(143deg, var(--background-light) 68%, var(--secondary-color) 100%); */
-    margin-left: 20%;
-    margin-right: 20%;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
 
 .topnav {
+    padding-top: 20px;
     background-color: var(--background-dark);
     overflow: hidden;
     display: flex;
@@ -168,20 +192,19 @@ footer {
 }
 
 .topnav p {
-    float: left;
     color: var(--text-color);
     text-align: center;
-    padding: 16px 16px;
+    padding-left: 26px;
+    padding-right: 26px;
     text-decoration: none;
-    line-height: 100px;
-    margin-left: 10px;
-    margin-right: 10px;
     min-width: 120px;
     max-width: 120px;
+    line-height: 42px;
 }
 
 .topnav a {
     position: relative;
+    text-align: center;
     text-decoration: none;
     color: var(--blue);
     font-size: 22px;
@@ -204,9 +227,17 @@ footer {
     transform: scaleX(1);
 }
 
+.slogan {
+    color: var(--primary-color);
+    font-weight: 500;
+    font-size: 14px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
 #navlogo {
     width: 150px;
-    height: 100px;
+    height: 42px;
     background: url("../images/logo.png") no-repeat;
     background-size: 150px 42px;
     background-position: center;
@@ -216,6 +247,7 @@ footer {
     margin-left: 20px;
     margin-right: 20px;
     text-align: center;
+    transition: background 0.2s ease;
 }
 
 #navlogo:hover {
@@ -269,6 +301,28 @@ footer {
     margin-right: 20px;
     margin-top: 20px;
     margin-bottom: 20px;
+}
+
+.block-clickable {
+    cursor: pointer;
+    max-width: 350px;
+    border: 2px solid var(--block-color);
+    border-radius: 25px;
+    background-color: var(--block-color);
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    box-shadow: 0px 0px 30px 10px var(--block-shadow-color);
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    transition: border 0.3s ease;
+}
+
+.block-clickable:hover {
+    border: 2px solid var(--primary-color);
 }
 
 .block-title {
@@ -334,8 +388,8 @@ footer {
         margin-right: 1%;
     }
     .headline-container {
-        padding-top: 10px;
-        padding-bottom: 10px;
+        padding-top: 20px;
+        padding-bottom: 0px;
     }
     .headline-small {
         font-size: 20px;
