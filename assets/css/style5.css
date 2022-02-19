@@ -687,7 +687,7 @@ table.block-table thead th {
     }
     .block-text-justify {
         font-size: 17px;
-        text-align: center;
+        text-align: left;
     }
     .person-image {
         max-width: 100px;
