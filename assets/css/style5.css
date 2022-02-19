@@ -626,6 +626,7 @@ table.block-table thead th {
     .topnav {
         position: relative;
         display: block;
+        padding-top: 10px;
     }
     .topnav p {
         float: none;
@@ -633,9 +634,11 @@ table.block-table thead th {
         line-height: normal;
         min-width: inherit;
         max-width: inherit;
+        padding-top: 3px;
+        padding-bottom: 3px;
     }
     .topnav a {
-        font-size: 16px;
+        font-size: 20px;
     }
     #navlogo {
         display: none;
