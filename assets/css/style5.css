@@ -194,7 +194,21 @@ summary {
     filter: invert(100%);
 }
 
-#social-media-link {
+#social-media-link1 {
+    display: block;
+    padding: 8px;
+    line-height: 0px;
+    text-align: center;
+}
+
+#social-media-link2 {
+    display: block;
+    padding: 8px;
+    line-height: 0px;
+    text-align: center;
+}
+
+#social-media-link3 {
     display: block;
     padding: 8px;
     line-height: 0px;
