@@ -363,7 +363,7 @@ summary {
 #navlogo {
     width: 150px;
     height: 42px;
-    background: url("../images/logo.png") no-repeat;
+    background: url("../images/logo.svg") no-repeat;
     background-size: 150px 42px;
     background-position: center;
     cursor: pointer;
@@ -376,7 +376,7 @@ summary {
 }
 
 #navlogo:hover {
-    background: url("../images/logo_hover.png") no-repeat;
+    background: url("../images/logo_hover.svg") no-repeat;
     background-size: 150px 42px;
     background-position: center;
 }
@@ -661,14 +661,14 @@ table.block-table thead th {
         display: block;
         width: 100px;
         height: 28px;
-        background: url("../images/logo.png") no-repeat;
+        background: url("../images/logo.svg") no-repeat;
         background-size: 100px 28px;
         background-position: center;
         cursor: pointer;
         margin-top: 4px;
     }
     #mobilelogo:hover {
-        background: url("../images/logo_hover.png") no-repeat;
+        background: url("../images/logo_hover.svg") no-repeat;
         background-size: 100px 28px;
         background-position: center;
         margin-top: 4px;
