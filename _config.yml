@@ -22,8 +22,8 @@ title: JES
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   JES bietet Dienstleistungen zur Prüfungsvorbereitung für angehende Steuerberater an.
-baseurl: ""
-url: "https://hangman.github.io/jespage/"
+baseurl: "/jespage"
+url: "https://hangman.github.io/jespage"
 github_username:  Hangman
 
 # Build settings
