@@ -31,24 +31,29 @@
     />
     <meta property="og:image:alt" content="JES - og:image:alt" />
 
-    <link rel="icon" href="/assets/images/favicon.svg" />
-    <link rel="stylesheet" href="/assets/css/main.css" />
+    <link rel="icon" href="{{ site.baseurl }}/assets/images/favicon.svg" />
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css" />
   </head>
 
   <body>
     <div id="mobilelogo-area">
-      <p id="mobilelogo" onClick="location.href='index.html'">
-        <a href="/index.html"></a>
+      <p id="mobilelogo" onClick="location.href='{{ site.baseurl }}index.html'">
+        <a href="{{ site.baseurl }}/index.html"></a>
       </p>
     </div>
     <nav class="topnav">
-      <p><a href="/leistung.html">Leistungen</a></p>
-      <p><a href="/team.html">Über uns</a></p>
-      <p id="navlogo" onClick="location.href='/index.html'">
-        <a href="/index.html"></a>
+      <p>
+        <a href="{{ site.baseurl }}/leistung.html">Leistungen</a>
       </p>
-      <p><a href="/news.html">News</a></p>
-      <p><a href="/kontakt.html">Kontakt</a></p>
+      <p><a href="{{ site.baseurl }}/team.html">Über uns</a></p>
+      <p
+        id="navlogo"
+        onClick="location.href='{{ site.baseurl }}/index.html'"
+      >
+        <a href="{{ site.baseurl }}/index.html"></a>
+      </p>
+      <p><a href="{{ site.baseurl }}/news.html">News</a></p>
+      <p><a href="{{ site.baseurl }}/kontakt.html">Kontakt</a></p>
     </nav>
     <div class="centered-container">
       <p class="slogan">Einfach Steuerrecht!</p>
