@@ -4,6 +4,24 @@
 
   <body>
     {% include topnav.html %}
+    <!-- prettier-ignore -->
+    {% if page.headline_big or page.headline_small %}
+    <div class="centered-container">
+      <div class="headline-container">
+        <!-- prettier-ignore -->
+        {% if page.headline_small and page.headline_small != '' %}
+        <p class="headline-small">{{ page.headline_small }}</p>
+        <!-- prettier-ignore -->
+        {% endif %}
+        <!-- prettier-ignore -->
+        {% if page.headline_big and page.headline_big != '' %}
+        <p class="headline-big">{{ page.headline_big }}</p>
+        <!-- prettier-ignore -->
+        {% endif %}
+      </div>
+    </div>
+    <!-- prettier-ignore -->
+    {% endif %}
 
     <div class="root-background">{{ content }}</div>
 

@@ -1,13 +1,8 @@
 ---
 layout: default
 title: News
+headline_small: Neuigkeiten.
 ---
-
-<div class="centered-container">
-  <div class="headline-container">
-    <p class="headline-small">Neuigkeiten.</p>
-  </div>
-</div>
 
 <div class="content-background-gradient">
   <div class="content-body-news">
@@ -16,19 +11,11 @@ title: News
     <hr class="invisible-hr" />
 
     {% for post in site.posts %}
-    <a href="{{ post.url | prepend: site.baseurl }}" class="news-title"
-      >{{ post.title }}</a
-    >
+    <a href="{{ post.url | prepend: site.baseurl }}" class="news-title">{{ post.title }}</a>
     <hr class="block-title-text-separator" />
-    <p class="news-metadata">
-      <time datetime="{{ post.date }}" class="news-metadata"
-        >{{ post.datestring }}</time
-      >, {{ post.author }}
-    </p>
+    <p class="news-metadata"><time datetime="{{ post.date }}" class="news-metadata">{{ post.datestring }}</time>, {{ post.author }}</p>
     <hr class="invisible-hr" />
-    <a href="{{ post.url | prepend: site.baseurl }}" class="news-excerpt"
-      >{{ post.excerpt }}</a
-    >
+    <a href="{{ post.url | prepend: site.baseurl }}" class="news-excerpt">{{ post.excerpt }}</a>
     <hr class="invisible-hr" />
     <hr class="invisible-hr" />
     <hr class="invisible-hr" />
