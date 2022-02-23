@@ -20,11 +20,7 @@
 
           <p class="news-title">{{ page.title }}</p>
           <hr class="block-title-text-separator" />
-          <p class="news-metadata">
-            <time datetime="{{ post.date }}" class="news-metadata"
-              >{{ page.datestring }}</time
-            >, {{ page.author }}
-          </p>
+          <p class="news-metadata"><time datetime="{{ post.date }}" class="news-metadata">{{ page.datestring }}</time>, {{ page.author }}</p>
           <hr class="invisible-hr" />
           <span class="block-text-left">{{ content }}</span>
           <hr class="invisible-hr" />
