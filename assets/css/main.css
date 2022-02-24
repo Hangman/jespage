@@ -651,7 +651,7 @@ ol {
 .in-block-left-image {
   width: 30%;
   max-width: 30%;
-  height: auto;
+  height: 450px;
   border-radius: 25px;
   display: block;
   object-fit: cover;
