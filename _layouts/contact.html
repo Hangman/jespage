@@ -1,19 +1,14 @@
 ---
 layout: default
-title: Kontakt
-headline_small: So erreichst du uns.
 ---
 
 <div class="content-background-solid">
   <div class="content-body">
     <div class="centered-container">
       <div>
-        <h1 id="SchriftlichePruefung">Kontaktmöglichkeiten</h1>
+        <h1 id="SchriftlichePruefung">{{ page.floating_headline }}</h1>
         <hr class="invisible-hr" />
-        <p class="floating-text">
-          Wir sind unkompliziert. Du kannst uns einfach auf der Plattform deiner Wahl anschreiben, völlig egal, ob du Fragen zu unseren Dienstleistungen hast
-          oder direkt einen Termin buchen möchtest. Du erhältst so früh wie möglich eine Antwort von uns (spätestens nach 24h).
-        </p>
+        <p class="floating-text">{{ page.floating_text }}</p>
       </div>
     </div>
   </div>
@@ -22,6 +17,8 @@ headline_small: So erreichst du uns.
 <div class="content-background-gradient">
   <div class="content-body">
     <div class="block-container">
+      <!-- prettier-ignore -->
+      {% if page.whatsapp and page.whatsapp_button_text %}
       <div class="block">
         <div class="centered-container">
           <img src="{{ site.baseurl }}/assets/images/whatsapp.svg" alt="Whatsapp Icon" class="contact-icon contact-icon-whatsapp" />
@@ -31,16 +28,20 @@ headline_small: So erreichst du uns.
         <div class="centered-container">
           <div>
             <p class="block-text">
-              <a href="tel:+4915789716781">015789716781</a>
+              <a href="tel:{{ page.whatsapp }}">{{ page.whatsapp }}</a>
             </p>
             <hr class="invisible-hr" />
             <div class="centered-container">
-              <a href="https://wa.me/+4915789716781?text=Willkommen%20bei%20JES" class="button">Chat aufrufen</a>
+              <a href="https://wa.me/{{ page.whatsapp }}" class="button">{{ page.whatsapp_button_text }}</a>
             </div>
           </div>
         </div>
       </div>
+      <!-- prettier-ignore -->
+      {% endif %}
 
+      <!-- prettier-ignore -->
+      {% if page.email and page.email_button_text %}
       <div class="block">
         <div class="centered-container">
           <img src="{{ site.baseurl }}/assets/images/email.svg" alt="Email Icon" class="contact-icon contact-icon-email" />
@@ -49,15 +50,19 @@ headline_small: So erreichst du uns.
         <hr class="block-title-text-separator" />
         <div class="centered-container">
           <div>
-            <p class="block-text">example@example.com</p>
+            <p class="block-text">{{ page.email }}</p>
             <hr class="invisible-hr" />
             <div class="centered-container">
-              <a href="mailto:example@example.com" class="button">Mail schreiben</a>
+              <a href="mailto:{{ page.email }}" class="button">{{ page.email_button_text }}</a>
             </div>
           </div>
         </div>
       </div>
+      <!-- prettier-ignore -->
+      {% endif %}
 
+      <!-- prettier-ignore -->
+      {% if page.instagram %}
       <div class="block">
         <div class="centered-container">
           <img src="{{ site.baseurl }}/assets/images/instagram.svg" alt="Instagram Icon" class="contact-icon contact-icon-instagram" />
@@ -67,11 +72,13 @@ headline_small: So erreichst du uns.
         <div class="centered-container">
           <div>
             <p class="block-text">
-              <a href="https://www.instagram.com/forsakenportals/">Link</a>
+              <a href="{{ page.instagram }}">Link</a>
             </p>
           </div>
         </div>
       </div>
+      <!-- prettier-ignore -->
+      {% endif %}
     </div>
   </div>
 
