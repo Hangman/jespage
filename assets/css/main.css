@@ -556,6 +556,10 @@ summary {
   color: var(--text-color);
 }
 
+.block-text-left strong {
+  color: var(--primary-color);
+}
+
 .block-text-left hr {
   border: 1px solid var(--primary-color);
   border-radius: 10px;
