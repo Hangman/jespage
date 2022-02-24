@@ -1,8 +1,5 @@
 ---
 layout: default
-title: Home
-headline_small: Du brauchst Unterstützung beim Steuerberaterexamen?
-headline_big: JES, wir helfen dir - und zwar digital!
 ---
 
 <div class="content-background">
@@ -11,7 +8,11 @@ headline_big: JES, wir helfen dir - und zwar digital!
       <img src="{{ site.baseurl }}/assets/images/team.jpg" alt="Bild des Teams" class="team-image" />
     </div>
 
-    <p class="headline-big">Die perfekte Ergänzung zu deinem Vorbereitungskurs:</p>
+    <!-- prettier-ignore -->
+    {% if page.service_headline %}
+    <p class="headline-big">{{ page.service_headline }}</p>
+    <!-- prettier-ignore -->
+    {% endif %}
 
     <div class="block-container">
       <div class="block-clickable" onclick="location.href='leistung.html#SchriftlichePruefung'">
