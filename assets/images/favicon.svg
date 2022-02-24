@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <path d="M64,6.4C64,2.868 61.132,0 57.6,0L6.4,0C2.868,0 0,2.868 0,6.4L0,57.6C0,61.132 2.868,64 6.4,64L57.6,64C61.132,64 64,61.132 64,57.6L64,6.4Z" style="fill:rgb(249,178,73);"/>
-    <g transform="matrix(1,0,0,1,-7.77749,34.6248)">
-        <g transform="matrix(83.3333,0,0,83.3333,18.4442,26.1669)">
-            <path d="M0.476,-0.698L0.476,-0.208C0.476,-0.14 0.456,-0.087 0.417,-0.05C0.378,-0.012 0.325,0.007 0.259,0.007C0.192,0.007 0.139,-0.012 0.098,-0.051C0.057,-0.09 0.036,-0.144 0.036,-0.213L0.176,-0.213C0.177,-0.183 0.184,-0.16 0.198,-0.143C0.211,-0.126 0.231,-0.118 0.257,-0.118C0.282,-0.118 0.302,-0.126 0.315,-0.142C0.328,-0.158 0.335,-0.18 0.335,-0.208L0.335,-0.698L0.476,-0.698Z" style="fill-rule:nonzero;"/>
-        </g>
-    </g>
-    <g transform="matrix(1,0,0,1,-8,5.5)">
-        <rect x="13" y="21" width="20" height="7"/>
-    </g>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="100%" height="100%" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"><path d="M15.36,1.536c-0,-0.848 -0.688,-1.536 -1.536,-1.536l-12.288,0c-0.848,0 -1.536,0.688 -1.536,1.536l0,12.288c0,0.848 0.688,1.536 1.536,1.536l12.288,-0c0.848,-0 1.536,-0.688 1.536,-1.536l-0,-12.288Z" style="fill:#f9b249;"/><text x="0.161px" y="10.79px" style="font-family:'Poppins-SemiBold', 'Poppins';font-weight:600;font-size:8.872px;">JES</text></svg>
