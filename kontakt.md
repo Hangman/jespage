@@ -7,6 +7,6 @@ floating_text: "Wir sind unkompliziert. Du kannst uns einfach auf der Plattform 
 email: jes@jes-einfach-steuerrecht.de
 email_button_text: E-Mail schreiben
 instagram: https://www.instagram.com/forsakenportals/
-whatsapp: +4915789716781
+whatsapp: "+4916097531538"
 whatsapp_button_text: Direkt zum Chat
 ---
