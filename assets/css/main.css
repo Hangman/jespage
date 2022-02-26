@@ -684,7 +684,7 @@ ol {
 }
 
 .person-image {
-  border: 3px solid var(--primary-color);
+  border: 4px solid var(--primary-color);
   border-radius: 50%;
   max-width: 200px;
   max-height: auto;
