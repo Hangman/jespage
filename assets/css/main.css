@@ -644,6 +644,7 @@ ol {
   display: block;
   object-fit: scale-down;
   margin-bottom: 40px;
+  box-shadow: 0px 0px 30px 10px var(--block-shadow-color);
 }
 
 .in-block-left-image {
