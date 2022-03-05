@@ -858,4 +858,11 @@ table.block-table thead th {
     height: 30px;
     padding: 10px;
   }
+  .team-image {
+    width: 80%;
+    height: auto;
+    border-radius: 25px;
+    display: block;
+    object-fit: scale-down;
+  }
 }
