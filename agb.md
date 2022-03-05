@@ -32,4 +32,6 @@ Dem Vertragspartner wird hiermit bekannt gegeben, dass JES personenbezogene Date
 
 ### 6. Sonstiges
 
-Die Unwirksamkeit einzelner Teilnahmebedingungen berührt die Wirksamkeit der übrigen Bedingungen nicht.
+**6.1.** Die Unwirksamkeit einzelner Teilnahmebedingungen berührt die Wirksamkeit der übrigen Bedingungen nicht.
+**6.2.** Sämtliche Ausführungen und Würdigungen von JES im Rahmen der Durchführung von Seminaren werden nicht in dienstlicher Eigenschaft getroffen.
+**6.3.** Durch JES erfolgt keine Steuerberatung.
