@@ -15,10 +15,6 @@ Telefon: 0160/97531538
 
 Erwin Janzen
 
-### Umsatzsteuer-Identifikationsnummer
-
-DExxxxxxxx
-
 ### Verbraucher-Streitschlichtung
 
 Die EU-Kommission hat eine Internetplattform zur Online-Beilegung von Streitigkeiten betreffend vertraglicher Verpflichtungen aus Online-Verträgen geschaffen (OS-Plattform). Sie können die OSPlattform unter dem folgenden Link erreichen: [http://ec.europa.eu/consumers/odr/](http://ec.europa.eu/consumers/odr/). Wir sind nicht bereit und nicht verpflichtet an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
