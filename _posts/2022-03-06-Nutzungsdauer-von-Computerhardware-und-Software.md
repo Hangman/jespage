@@ -3,7 +3,7 @@ layout: article
 title: Ertragsteuer - Nutzungsdauer von Computerhardware und Software (BMF)
 datestring: 06. Mrz 2022
 author: Jost Oehrle
-excerpt: Das BMF hat sein Schreiben v. 26.2.2021 zur Nutzungsdauer von Computerhardware und Software zur Dateneingabe und -verarbeitung überarbeitet. Das neue Schreiben stellt insbesondere die Wirkungsweise der zuvor festgelegten kürzeren Nutzungsdauer klar.
+excerpt: Das BMF hat sein Schreiben v. 26.2.2021 zur Nutzungsdauer von Computerhardware und Software zur Dateneingabe und -verarbeitung überarbeitet. Das neue Schreiben stellt insbesondere die Wirkungsweise der zuvor festgelegten kürzeren Nutzungsdauer klar. Was das konkret bedeutet, schauen wir uns im Folgenden an.
 ---
 
 In dem neuen Schreiben (BMF-Schreiben v. 22.02.2022 - IV C 3 - S 2190/21/10002 :025) stellt das BMF ergänzend zu seinem vorherigen Schreiben (BStBl I 2021 S. 298) in Rn. 1.1 und 1.4 Folgendes klar:<br><br>

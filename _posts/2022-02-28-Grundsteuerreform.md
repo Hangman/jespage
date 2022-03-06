@@ -3,7 +3,7 @@ layout: article
 title: Grundsteuer - Grundsteuerreform und Neubewertung des Grundvermögens
 datestring: 28. Feb 2022
 author: Jost Oehrle
-excerpt: Neubewertung für Zwecke der Grundsteuer auf den 01.01.2022 startet ab dem 1. Juli, alle Grundstückseigentümer sind zur Abgabe einer Feststellungserklärung verpflichtet.
+excerpt: Neubewertung für Zwecke der Grundsteuer auf den 01.01.2022 startet ab dem 1. Juli, alle Grundstückseigentümer sind zur Abgabe einer Feststellungserklärung verpflichtet. Mehr dazu hier...
 ---
 
 Mit dem Grundsteuer-Reformgesetz wurde festgelegt, dass in der BRD auf den 01.01.2022 als Bewertungsstichtag alle Grundstücke im Bundesgebiet für Zwecke der Grundsteuer neu zu bewerten sind. Diese Neubewertung fußt auf dem Urteil des Bundesverfassungsgerichtes vom 10. April 2018. Auf den 01.01.2022 (Besteuerungsstichtag) wird sodann mit dem neu ermittelten Wert ein sog. "Grundsteuerwert" festgestellt, der den bisherigen "Einheitswert" ersetzt und der Festsetzung der neuen Grundsteuer ab 2025 zugrunde gelegt wird. Auf die Finanzbehörden aber auch die Grundstücksbesitzer\*innen kommt im Rahmen der Neubewertung der Grundstücke im Bundesgebiet eine erhebliche Mehrarbeit zu.
