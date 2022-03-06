@@ -30,6 +30,11 @@ github_username: Hangman
 # Build settings
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+
+gems:
+  - jekyll-feed
+  - jekyll-sitemap
 
 # Exclude from processing.
 exclude:
