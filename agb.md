@@ -34,4 +34,4 @@ Dem Vertragspartner wird hiermit bekannt gegeben, dass JES personenbezogene Date
 
 **6.1.** Die Unwirksamkeit einzelner Teilnahmebedingungen berührt die Wirksamkeit der übrigen Bedingungen nicht.<br>
 **6.2.** Sämtliche Ausführungen und Würdigungen von JES im Rahmen der Durchführung von Seminaren werden nicht in dienstlicher Eigenschaft getroffen.<br>
-**6.3.** Durch JES erfolgt keine Hilfeleistung in Steuersachen i.S.d. § 2 ff. StBerG.
+**6.3.** Durch JES erfolgt keinerlei Hilfeleistung in Steuersachen i. S. d. § 2 ff. des Steuerberatungsgesetzes.
