@@ -39,3 +39,5 @@ gems:
 # Exclude from processing.
 exclude:
   - dev
+  - README.md
+  - CNAME
