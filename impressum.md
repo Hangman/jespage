@@ -8,7 +8,7 @@ block_title: Impressum
 JES GbR<br>
 Moltkestr. 15<br>
 33330 Gütersloh<br>
-E-Mail: jes@jes-einfach-steuerrecht.de<br>
+E-Mail: jes@jes-steuerrecht.de<br>
 Telefon: 0160/97531538
 
 ### Verantwortlich für redaktionelle Inhalte
