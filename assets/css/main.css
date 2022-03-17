@@ -454,10 +454,10 @@ summary {
   border: 2px solid var(--block-color);
   border-radius: 25px;
   background-color: var(--block-color);
-  padding-left: 65px;
-  padding-right: 65px;
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-left: 35px;
+  padding-right: 35px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   box-shadow: 0px 0px 30px 10px var(--block-shadow-color);
   margin-left: 20px;
   margin-right: 20px;
@@ -666,20 +666,25 @@ ol {
   font-weight: 300;
 }
 
-.person-container {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-}
-
-.person {
+.person-block {
   display: block;
   min-width: 300px;
   max-width: 300px;
-  padding: 10px 10px 10px 10px;
+  border: 2px solid var(--block-color);
+  border-radius: 25px;
+  background-color: var(--block-color);
+  padding-left: 18px;
+  padding-right: 18px;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  box-shadow: 0px 0px 30px 10px var(--block-shadow-color);
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
-.person p {
+.person-block p {
   text-align: center;
 }
 
@@ -815,14 +820,14 @@ table.block-table thead th {
     padding-bottom: 10px;
   }
   .big-block {
-    padding-left: 15px;
-    padding-right: 15px;
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     margin-left: 0px;
     margin-right: 0px;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
   }
   .block-title {
     font-size: 22px;
