@@ -712,6 +712,10 @@ table.block-table th {
   padding: 5px 10px;
 }
 
+.table-row-spacer {
+  border-top: 1px solid #3f3f3f;
+}
+
 table.block-table tbody td {
   font-size: 18px;
   font-weight: 300;
