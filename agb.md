@@ -21,9 +21,10 @@ zugegangenen Anmeldung. Die Bestätigungsfrist beträgt eine Woche. Sämtliche L
 **3.2.** Die Gebühr ist unmittelbar nach der verbindlichen Terminbuchung und Rechnungstellung zu entrichten. JES ist berechtigt sich bei fehlendem Zahlungseingang am Lehrgangstag einen Beleg der erfolgten Zahlung vorlegen zu lassen.<br>
 **3.3.** Muss ein Seminar von JES abgesagt werden, werden bereits entrichtete Gebühren vollständig erstattet, sofern nicht der Ausfall vom Vertragspartner zu vertreten ist. JES wird im Übrigen über den Ausfall informieren.
 
-### 4. Datenschutz
+### 4. Datenschutz und Werbeeinwilligung
 
-Dem Vertragspartner wird hiermit bekannt gegeben, dass JES personenbezogene Daten in automatisierten Dateien speichert und versichert, dass deren Erfassung, Verarbeitung und Weitergabe ausschließlich im Rahmen des Fortbildungszweckes erfolgen. Die Anmeldung des Vertragspartners umfasst das ausdrückliche Einverständnis des Vertragspartners.
+**4.1.** Dem Vertragspartner wird hiermit bekannt gegeben, dass JES personenbezogene Daten in automatisierten Dateien speichert und versichert, dass deren Erfassung, Verarbeitung und Weitergabe ausschließlich im Rahmen des Fortbildungszweckes erfolgen. Die Anmeldung des Vertragspartners umfasst das ausdrückliche Einverständnis des Vertragspartners.<br>
+**4.2.** Die Anmeldung des Vertragspartners umfasst die ausdrückliche Werbeeinwilligung zur individuellen Werbekontaktaufnahme per E-Mail.
 
 ### 5. Haftung
 
