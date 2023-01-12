@@ -447,6 +447,7 @@ summary {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  gap: 30px;
 }
 
 .big-block {
@@ -459,10 +460,6 @@ summary {
   padding-top: 30px;
   padding-bottom: 30px;
   box-shadow: 0px 0px 30px 10px var(--block-shadow-color);
-  margin-left: 20px;
-  margin-right: 20px;
-  margin-top: 20px;
-  margin-bottom: 20px;
 }
 
 .block {
@@ -668,8 +665,8 @@ ol {
 
 .person-block {
   display: block;
-  min-width: 300px;
-  max-width: 300px;
+  flex-basis: 300px;
+  flex-grow: 1;
   border: 2px solid var(--block-color);
   border-radius: 25px;
   background-color: var(--block-color);
@@ -678,10 +675,6 @@ ol {
   padding-top: 18px;
   padding-bottom: 18px;
   box-shadow: 0px 0px 30px 10px var(--block-shadow-color);
-  margin-left: 10px;
-  margin-right: 10px;
-  margin-top: 10px;
-  margin-bottom: 10px;
 }
 
 .person-block p {
@@ -788,10 +781,6 @@ table.block-table thead th {
     padding-right: 10px;
     padding-top: 10px;
     padding-bottom: 10px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 15px;
-    margin-bottom: 15px;
   }
   .in-block-right-container {
     width: 100%;
