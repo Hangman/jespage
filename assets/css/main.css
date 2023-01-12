@@ -472,10 +472,6 @@ summary {
   padding-top: 30px;
   padding-bottom: 30px;
   box-shadow: 0px 0px 30px 10px var(--block-shadow-color);
-  margin-left: 20px;
-  margin-right: 20px;
-  margin-top: 20px;
-  margin-bottom: 20px;
 }
 
 .block-clickable {
@@ -489,10 +485,6 @@ summary {
   padding-top: 30px;
   padding-bottom: 30px;
   box-shadow: 0px 0px 30px 10px var(--block-shadow-color);
-  margin-left: 20px;
-  margin-right: 20px;
-  margin-top: 20px;
-  margin-bottom: 20px;
   transition: border 0.3s ease;
 }
 
@@ -789,11 +781,98 @@ table.block-table thead th {
 }
 
 @media screen and (max-width: 930px) {
+  html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  font-size: 17px;
+}
   h1 {
     font-size: 30px;
   }
   h2 {
     font-size: 26px;
+  }
+  table.block-table tbody td {
+    font-size: 17px;
+    font-weight: 300;
+    color: var(--text-color);
   }
   #mobilelogo-area {
     display: block;
@@ -867,10 +946,10 @@ table.block-table thead th {
     font-size: 22px;
   }
   .block-text {
-    font-size: 17px;
+    font-size: 16px;
   }
   .block-text-justify {
-    font-size: 17px;
+    font-size: 16px;
     text-align: left;
   }
   .person-image {
@@ -879,7 +958,7 @@ table.block-table thead th {
   .floating-text {
     padding-top: 10px;
     padding-bottom: 10px;
-    font-size: 18px;
+    font-size: 17px;
     font-weight: 300;
     text-align: center;
     margin-left: 10%;
