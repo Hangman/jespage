@@ -6,8 +6,8 @@ block_title: Impressum
 ---
 
 JES GbR<br>
-Moltkestr. 15<br>
-33330 Gütersloh<br>
+Arnsberger Str. 5<br>
+59519 Möhnesee<br>
 E-Mail: jes@jes-steuerrecht.de<br>
 Telefon: 0160/97531538
 
