@@ -4,7 +4,7 @@ title: Team
 headline_small: Das sind wir.
 ---
 
-Wir, die Gründer\*innen von **JES**, sind erfahrene Bedienstete der Finanzverwaltung für NRW und haben in unserer Dienstzeit bereits mehrere Stellen durchlaufen. Wir haben alle drei das Steuerberaterexamen in unterschiedlichen Jahrgängen erfolgreich absolviert, die anstrengende Prüfungsvorbereitung selbst durchlebt und wissen dementsprechend, was du durchmachst und was dich bewegt.<br><br>
+Wir, die Gründer\*innen von **JES**, sind als Bedienstete der Finanzverwaltung für NRW in unsere Steuerrechtskarriere gestartet, verfügen über langjährige Erfahrung als Betriebsprüfer\*innen und arbeiten mittlerweile in unterschiedlichen Bereichen in und außerhalb der Verwaltung. Wir haben alle drei das Steuerberaterexamen in verschiedenen Jahrgängen erfolgreich absolviert, die anstrengende Prüfungsvorbereitung selbst durchlebt und wissen dementsprechend, was du durchmachst und was dich bewegt.<br><br>
 
 Hieraus ergibt sich die Philosophie von **JES**: Einen punktuellen Ansatz zur individuellen Prüfungsvorbereitung der Steuerberateranwärter\*innen zu liefern. Wir bieten
 dir eine Ergänzung zur fachlichen Vorbereitung und können dir damit die nötige Sicherheit geben, dich den Prüfungen gewachsen zu fühlen.<br><br>
