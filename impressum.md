@@ -6,8 +6,8 @@ block_title: Impressum
 ---
 
 JES GbR<br>
-Arnsberger Str. 5<br>
-59519 Möhnesee<br>
+Franz-Gerwin-Str. 22<br>
+44534 Lünen<br>
 E-Mail: jes@jes-steuerrecht.de<br>
 Telefon: 0160/97531538
 
