@@ -7,6 +7,6 @@ floating_text: "Wir sind unkompliziert. Du kannst uns einfach auf der Plattform 
 email: jes@jes-steuerrecht.de
 email_button_text: E-Mail schreiben
 instagram: https://www.instagram.com/jes.steuerrecht/
-whatsapp: "+4916097531538"
+whatsapp: "+491786891036"
 whatsapp_button_text: Direkt zum Chat
 ---
