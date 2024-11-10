@@ -9,7 +9,7 @@ JES GbR<br>
 Franz-Gerwin-Str. 22<br>
 44534 Lünen<br>
 E-Mail: jes@jes-steuerrecht.de<br>
-Telefon: 0160/97531538
+Telefon: 01786891036
 
 ### Verantwortlich für redaktionelle Inhalte
 
